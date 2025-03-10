@@ -1,5 +1,5 @@
 body 
-{background-image: linear-gradient(white,purple);}
+{background-image: linear-gradient(white,rgb(163, 0, 109));}
 
 h1 
 {color:rgb(253, 124, 253);
@@ -7,13 +7,13 @@ font-size: 300%;
 text-align: center;}
 
 h2
-{color:rgb(121, 157, 255);
+{color:rgb(0, 36, 134);
 font-size: 200%;
 text-align: center;}
 
 #ima1
 {width: 40%;
-margin-left: 15%;}
+margin-left: 20%;}
 
 .fantasmas
 {color:white;}
